@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# React Youtube Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A youtube clone maded with react and material ui
 
-## Available Scripts
+<img src="./public/images/screenshot.gif"> 
 
-In the project directory, you can run:
 
-### `yarn start`
+## File Structure
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Within the download you'll find the following directories and files:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+html5_animated_login_screen
+├── package.json
+├── public
+│   ├── favicon.ico
+│   ├── images
+│   │   ├── avatar.jpeg
+│   │   ├── branco.png
+│   │   ├── preto.png
+│   │   ├── screenshot.gif
+│   │   ├── thumb1.png
+│   │   ├── thumb2.png
+│   │   ├── thumb3.png
+│   │   ├── thumb4.png
+│   │   ├── thumb5.png
+│   │   ├── thumb6.png
+│   │   ├── thumb7.png
+│   │   └── thumb8.png
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── README.md
+├── src
+│   ├── App.js
+│   ├── Home.js
+│   ├── index.js
+│   └── logo.svg
+└── yarn.lock
+```
 
-### `yarn test`
+## Browser Support
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+At present, we officially aim to support the last two versions of the following browsers:
 
-### `yarn build`
+<img src="https://blogs.shu.ac.uk/shutech/files/2014/03/Google_Chrome_icon_2011.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/815px-Firefox_logo%2C_2019.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/1200px-Microsoft_Edge_logo_%282019%29.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/1028px-Safari_browser_logo.svg.png" width="64" height="64"> <img src="https://logodownload.org/wp-content/uploads/2017/06/opera-logo-browser.png" width="64" height="64">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Meta
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Linkedin Profile – [Messias Geovani](https://www.linkedin.com/in/messiasgeovani/) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Email – messias.geovani.lima@gmail.com
 
-### `yarn eject`
+Github profile – [messiasGeovani](https://github.com/messiasGeovani)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork it (<https://github.com/messiasGeovani/react-youtube-clone/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
