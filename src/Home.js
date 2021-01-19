@@ -312,7 +312,7 @@ export default function Home({ darkMode, setDarkMode }) {
 
               <Divider />
 
-              <Box p={7}>
+              <Box p={4}>
                 <Typography variant="body2">
                   Faça login para curtir vídeos, comentar e se inscrever.
                 </Typography>
