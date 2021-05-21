@@ -47,13 +47,6 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://blogs.shu.ac.uk/shutech/files/2014/03/Google_Chrome_icon_2011.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/815px-Firefox_logo%2C_2019.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/1200px-Microsoft_Edge_logo_%282019%29.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/1028px-Safari_browser_logo.svg.png" width="64" height="64"> <img src="https://logodownload.org/wp-content/uploads/2017/06/opera-logo-browser.png" width="64" height="64">
 
-## Meta
-
-Linkedin Profile – [Messias Geovani](https://www.linkedin.com/in/messiasgeovani/) 
-
-Email – messias.geovani.lima@gmail.com
-
-Github profile – [messiasGeovani](https://github.com/messiasGeovani)
 
 ## Contributing
 
